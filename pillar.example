@@ -1,0 +1,5 @@
+phantomjs:
+  versions:        # version to install 
+    - 2.1.1
+    - 1.9.0
+  default: 2.1.1   # one of the version numbers listed under versions that should be configured as the system-wide default
